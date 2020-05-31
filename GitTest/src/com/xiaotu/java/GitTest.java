@@ -13,7 +13,7 @@ public class GitTest {
         System.out.println("4");
         System.out.println("5");
         System.out.println("6");
-        System.out.println("在线跟新");
+        System.out.println("在线跟新。。。");
     }
 
 }
